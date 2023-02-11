@@ -1,0 +1,15 @@
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\exercicio_3\bin\Debug\net6.0\exercicio_3.exe
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\exercicio_3\bin\Debug\net6.0\exercicio_3.deps.json
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\exercicio_3\bin\Debug\net6.0\exercicio_3.runtimeconfig.json
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\exercicio_3\bin\Debug\net6.0\exercicio_3.dll
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\exercicio_3\bin\Debug\net6.0\exercicio_3.pdb
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\exercicio_3\obj\Debug\net6.0\exercicio_3.csproj.AssemblyReference.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\exercicio_3\obj\Debug\net6.0\exercicio_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\exercicio_3\obj\Debug\net6.0\exercicio_3.AssemblyInfoInputs.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\exercicio_3\obj\Debug\net6.0\exercicio_3.AssemblyInfo.cs
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\exercicio_3\obj\Debug\net6.0\exercicio_3.csproj.CoreCompileInputs.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\exercicio_3\obj\Debug\net6.0\exercicio_3.dll
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\exercicio_3\obj\Debug\net6.0\refint\exercicio_3.dll
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\exercicio_3\obj\Debug\net6.0\exercicio_3.pdb
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\exercicio_3\obj\Debug\net6.0\exercicio_3.genruntimeconfig.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\exercicio_3\obj\Debug\net6.0\ref\exercicio_3.dll

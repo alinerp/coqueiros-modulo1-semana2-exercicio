@@ -1,0 +1,5 @@
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\conceito_poo\exercicio_1\obj\Debug\net6.0\exercicio_1.csproj.AssemblyReference.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\conceito_poo\exercicio_1\obj\Debug\net6.0\exercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\conceito_poo\exercicio_1\obj\Debug\net6.0\exercicio_1.AssemblyInfoInputs.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\conceito_poo\exercicio_1\obj\Debug\net6.0\exercicio_1.AssemblyInfo.cs
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\conceito_poo\exercicio_1\obj\Debug\net6.0\exercicio_1.csproj.CoreCompileInputs.cache
