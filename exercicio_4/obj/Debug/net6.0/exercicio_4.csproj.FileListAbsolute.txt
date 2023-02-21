@@ -1,0 +1,15 @@
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\Exercicios\exercicio_4\obj\Debug\net6.0\exercicio_4.csproj.AssemblyReference.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\Exercicios\exercicio_4\obj\Debug\net6.0\exercicio_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\Exercicios\exercicio_4\obj\Debug\net6.0\exercicio_4.AssemblyInfoInputs.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\Exercicios\exercicio_4\obj\Debug\net6.0\exercicio_4.AssemblyInfo.cs
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\Exercicios\exercicio_4\obj\Debug\net6.0\exercicio_4.csproj.CoreCompileInputs.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\Exercicios\exercicio_4\bin\Debug\net6.0\exercicio_4.exe
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\Exercicios\exercicio_4\bin\Debug\net6.0\exercicio_4.deps.json
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\Exercicios\exercicio_4\bin\Debug\net6.0\exercicio_4.runtimeconfig.json
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\Exercicios\exercicio_4\bin\Debug\net6.0\exercicio_4.dll
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\Exercicios\exercicio_4\bin\Debug\net6.0\exercicio_4.pdb
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\Exercicios\exercicio_4\obj\Debug\net6.0\exercicio_4.dll
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\Exercicios\exercicio_4\obj\Debug\net6.0\refint\exercicio_4.dll
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\Exercicios\exercicio_4\obj\Debug\net6.0\exercicio_4.pdb
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\Exercicios\exercicio_4\obj\Debug\net6.0\exercicio_4.genruntimeconfig.cache
+C:\Meus Documentos\PROGRAMAÇÃO\Floripa + Tec - FullStack\Semana 02\Exercicios\exercicio_4\obj\Debug\net6.0\ref\exercicio_4.dll
